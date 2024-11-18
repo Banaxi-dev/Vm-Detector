@@ -1,0 +1,7 @@
+C:\Users\maxi\source\repos\VM Checker\VM Checker\obj\Debug\VM Checker.csproj.AssemblyReference.cache
+C:\Users\maxi\source\repos\VM Checker\VM Checker\obj\Debug\VM Checker.csproj.CoreCompileInputs.cache
+C:\Users\maxi\source\repos\VM Checker\VM Checker\bin\Debug\VM Checker.exe.config
+C:\Users\maxi\source\repos\VM Checker\VM Checker\bin\Debug\VM Checker.exe
+C:\Users\maxi\source\repos\VM Checker\VM Checker\bin\Debug\VM Checker.pdb
+C:\Users\maxi\source\repos\VM Checker\VM Checker\obj\Debug\VM Checker.exe
+C:\Users\maxi\source\repos\VM Checker\VM Checker\obj\Debug\VM Checker.pdb
