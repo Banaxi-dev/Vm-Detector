@@ -25,10 +25,20 @@ This tool is designed to help detect whether the system is running inside a virt
 
 ## How to Use
 
-1. Clone or download this repository to your local machine.
-2. Run the `VMChecker.exe` file.
-3. The tool will automatically begin checking various system components and will display the results in the console.
-4. Based on the results, the tool will inform you if a virtual machine is detected, and if so, provide insights into which components suggested this detection.
+1. Go on Releases
+2. Download the Exe file.
+3. Run the `VMChecker.exe` file.
+5. Based on the results, the tool will inform you if a virtual machine is detected, and if so, provide insights into which components suggested this detection.
+
+## Usage
+
+1. Run the program and choose one of the following options:
+    - **D**: Detect the current PC configuration.
+    - **T**: Attempt to remove VM traces (use with caution).
+
+2. The program will perform a series of checks and display the results in the console.
+
+3. Review the results to determine if the system is running in a virtualized environment.
 
 ### Example Output:
 
@@ -80,3 +90,9 @@ Feel free to fork this repository, create pull requests, and contribute by addin
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+## Disclaimer
+
+- **Option T (Remove VM traces)**: This option can be dangerous and may cause system instability. Use it at your own risk. The author is not responsible for any damages that may occur.
